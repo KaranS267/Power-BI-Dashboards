@@ -1,0 +1,1 @@
+This repository hosts a collection of Power BI dashboards designed to provide insightful visualizations and interactive analytics across various domains. Each dashboard is crafted to transform raw data into meaningful insights, aiding decision-makers in understanding trends, patterns, and metrics effectively.
